@@ -1,4 +1,4 @@
-# Rag with vector search and OpenAi
+# Rag with vector search, LangChain and OpenAi
 
 Create vector embeddings with machine learning models like OpenAI and store index them in Atlas for retrieval augmented generation (RAG), and use Gradio for user interface.
 
